@@ -1,0 +1,23 @@
+Минимальный патч V17 -> V18
+
+Заменить:
+1. type-catalog.js
+2. catalog-structure.js
+3. index.html
+4. bootstrap.js
+
+Не требуют замены относительно V17:
+- app.js
+- catalog-data.js
+- styles.css
+- build-open-site.mjs
+
+Для проверки:
+- OPEN-SITE.html — автономная пересобранная версия
+
+Новая цепочка:
+Электроинструменты
+└─ Резка твердых материалов
+   ├─ Сталь
+   ├─ Бетон
+   └─ Плитка
