@@ -1,0 +1,24 @@
+{
+  "version": "V18",
+  "base_version": "V17",
+  "date": "2026-08-18",
+  "required_replacements_from_v17": [
+    "type-catalog.js",
+    "catalog-structure.js",
+    "index.html",
+    "bootstrap.js"
+  ],
+  "generated_preview": "OPEN-SITE.html",
+  "documentation": [
+    "PATCH-NOTES.md",
+    "STRUCTURE-PATCH.diff"
+  ],
+  "unchanged_from_v17": [
+    "app.js",
+    "catalog-data.js",
+    "styles.css",
+    "build-open-site.mjs"
+  ],
+  "main_change": "Электроинструменты > Резка твердых материалов > Сталь / Бетон / Плитка",
+  "removed": "Работа по материалу"
+}
