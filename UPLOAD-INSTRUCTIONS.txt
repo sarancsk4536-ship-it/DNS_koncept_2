@@ -1,0 +1,16 @@
+DNS Concept V62 — GitHub update files
+
+Заменить в корне репозитория следующие файлы:
+- index.html
+- bootstrap.js
+- catalog-data.js
+- work-stages.js
+- category-popularity.js
+- app.js
+- catalog-structure.js
+
+Изменение V62:
+«СИЗ, хранение и организация рабочего места» →
+«Средства индивидуальной защиты и хранение инструмента».
+
+styles.css, type-catalog.js и assets в V62 не менялись.
