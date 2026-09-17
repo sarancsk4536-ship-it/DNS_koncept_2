@@ -1,0 +1,17 @@
+DNS concept V63 — GitHub Pages update
+
+Replace these files in the repository root:
+- index.html
+- bootstrap.js
+- app.js
+- catalog-data.js
+- work-stages.js
+- category-popularity.js
+
+V63 first-level order:
+1. Инструменты
+2. Подбор по этапам работ
+3. Аккумуляторные платформы
+
+The former label «По типу инструмента» is replaced by «Инструменты» in the user interface.
+No assets need to be replaced for this release.
